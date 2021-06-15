@@ -23,7 +23,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-Lanterna.git
 
 <h1 align="center">
 
-<img src="https://user-images.githubusercontent.com/53570115/122058367-edfb8c80-cdc1-11eb-94c8-25de035f5f7d.png"
+<img src="https://user-images.githubusercontent.com/53570115/122092357-33c74d80-cde0-11eb-8972-592761cb003b.png"
     height="400">
 
 </h1>
